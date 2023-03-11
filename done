@@ -1,0 +1,92 @@
+[33mcommit 2333cdd41c1a86a4d833ee690c8e4dc2c2fd8594[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 28432b5 81643ad
+Author: Viejhay <mavidavid16@gmail.com>
+Date:   Sat Mar 11 20:06:28 2023 +0800
+
+    Merge branch 'main' of https://github.com/VieJhay0499/sample
+
+[33mcommit 28432b5b3554ce902e83dc9b60e86846abb087b2[m[33m ([m[1;31morigin/Video[m[33m, [m[1;32mVideo[m[33m)[m
+Merge: 020513c b88a201
+Author: Viejhay <mavidavid16@gmail.com>
+Date:   Sat Mar 11 20:03:57 2023 +0800
+
+    Merge branch 'Video' of https://github.com/VieJhay0499/sample into Video
+
+[33mcommit b88a201620d6b159036d99b8a658e0c4db64cf99[m
+Author: VieJhay0499 <125970827+VieJhay0499@users.noreply.github.com>
+Date:   Sat Mar 11 20:00:34 2023 +0800
+
+    Update index.html
+
+[33mcommit 81643ad466e1f7c1161082dcbe4fcfa23a2e069d[m
+Merge: 6e6ba8b 020513c
+Author: VieJhay0499 <125970827+VieJhay0499@users.noreply.github.com>
+Date:   Sat Mar 11 03:51:07 2023 -0800
+
+    Merge pull request #2 from VieJhay0499/dev
+    
+    Dev
+
+[33mcommit 6e6ba8be4eeb0bda9adc525480d396015d9799c3[m
+Merge: dfa8931 0aacbc3
+Author: VieJhay0499 <125970827+VieJhay0499@users.noreply.github.com>
+Date:   Sat Mar 11 03:35:38 2023 -0800
+
+    Merge pull request #1 from VieJhay0499/Video
+    
+    Create text.txt
+
+[33mcommit 020513c6158e09c740d60d2fce8e0803c92a0f7a[m[33m ([m[1;31morigin/dev2[m[33m, [m[1;31morigin/dev[m[33m, [m[1;32mdev2[m[33m, [m[1;32mdev[m[33m)[m
+Merge: c19f12a 0aacbc3
+Author: Viejhay <mavidavid16@gmail.com>
+Date:   Sat Mar 11 19:34:11 2023 +0800
+
+    Merge branch 'Video' of https://github.com/VieJhay0499/sample into Video
+
+[33mcommit c19f12a0cbd71d7567e09d4209c115f1e1467abe[m
+Author: Viejhay <mavidavid16@gmail.com>
+Date:   Sat Mar 11 19:32:39 2023 +0800
+
+    file edited
+
+[33mcommit 0aacbc3288b7fef266c8950e0be894031013f1ed[m
+Author: VieJhay0499 <125970827+VieJhay0499@users.noreply.github.com>
+Date:   Sat Mar 11 19:21:57 2023 +0800
+
+    Create text.txt
+
+[33mcommit dfa89316859c7980b0759e4022663df6d77ca1da[m
+Author: VieJhay0499 <125970827+VieJhay0499@users.noreply.github.com>
+Date:   Sat Mar 11 19:07:51 2023 +0800
+
+    Update index.html
+
+[33mcommit 1af392d7dcaac5f573a33206ce409a1a518289ba[m
+Author: Viejhay <mavidavid16@gmail.com>
+Date:   Sat Mar 11 19:03:53 2023 +0800
+
+    adding footer
+
+[33mcommit 7704fee8b466c969c8687df439d980debf148e7f[m
+Author: Viejhay <mavidavid16@gmail.com>
+Date:   Sat Mar 11 18:46:45 2023 +0800
+
+    adding more video
+
+[33mcommit 74e494881bf4620b7bb07b2298fa01150770d321[m
+Author: VieJhay0499 <125970827+VieJhay0499@users.noreply.github.com>
+Date:   Sat Mar 11 18:36:46 2023 +0800
+
+    Update index.html
+
+[33mcommit d7af9d5c937e994de1b1fe3f8e86f7f4cd8a1662[m
+Author: Viejhay <mavidavid16@gmail.com>
+Date:   Sat Mar 11 18:26:36 2023 +0800
+
+    just add Webpage
+
+[33mcommit 36980914471bc26691a12fbcc7d29cab06d785cf[m
+Author: VieJhay0499 <125970827+VieJhay0499@users.noreply.github.com>
+Date:   Sat Mar 11 18:17:16 2023 +0800
+
+    Initial commit
